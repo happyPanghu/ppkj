@@ -1,0 +1,8 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "express test",
+  "main": "index.js",
+  "author": "李森",
+  "license": "MIT"
+}
